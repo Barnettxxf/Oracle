@@ -1,0 +1,1 @@
+-- 类的抽象类 NOT INSTANTIABLE
